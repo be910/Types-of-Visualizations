@@ -4,7 +4,7 @@ A collection of data visualization projects exploring nutrition economics and cr
  
 ## Reports
  
-### 1. 🥗 Protein Power vs Sugar Shock: The Prepared Meal Showdown
+### 1. 🥗 [Protein Power vs Sugar Shock: The Prepared Meal Showdown](./Exploratory_visualization_report.pdf)
 
 An exploratory visualization report analyzing prepared meal products across major brands to identify which offer the best **protein-to-sugar ratio at the lowest cost** — useful for budget-conscious, health-oriented grocery shopping.
  
@@ -15,7 +15,7 @@ An exploratory visualization comparing protein-to-sugar ratios and average price
  
 ---
  
-## Report 2 — 🔍 Deceptive Visualization Critique
+### 2. 🔍 [Deceptive Visualization Critique](./Deceptive_visualization_report.html)
  
 > *Racial Profiling in Action: Black New Yorkers Overrepresented in Police Complaints*
  
